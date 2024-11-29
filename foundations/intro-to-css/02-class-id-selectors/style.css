@@ -1,0 +1,21 @@
+.odd {
+    background-color: pink;
+}
+
+.three{
+    font-weight: bold;
+}
+
+.even{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.even.four {
+    background-color: greenyellow;
+    font-weight: bold;
+}
+
+#two {
+    color: blue;
+    font-size: 45px;
+}
